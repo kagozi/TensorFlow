@@ -33,10 +33,3 @@ $ source ./.venv/bin/activate
 ```bash
 (.venv) $ pip install -r requirements.txt
 ```
-
-### Running the code
-**EACH** subsection is independent while some may be interdependent. Move into each directory and call python for each script:
-```bash
-$ cd /folder/
-$ python3 run.py
-```
